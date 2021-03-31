@@ -1,6 +1,6 @@
 *, *::before, *::after {
   box-sizing: border-box;
-  font-family: verdana;
+  font-family: Gotham Rounded;
 }
 
 :root {
