@@ -89,7 +89,6 @@ const questions = [
     answers: [
       { text: 'THE BOX METHOD', correct: false },
       { text: 'THE ALGEBRAIC METHOD', correct: true },
-      { text: 'THEY ARE BOTH WRONG', correct: false }
     ]
   },
   {
@@ -133,20 +132,6 @@ const questions = [
     answers: [
       { text: 'When She does not say hello', correct: true },
       { text: 'When she does not email back', correct: false }      
-    ]
-  },
-  {
-    question: 'Q9 What is 1x',
-    answers: [
-      { text: 'Just one x' correct: false },
-      { text: '1x = a unknown varuble that feeds on 1 of the unknown', correct: true }
-    ]
-  },
-  {
-    question: 'Q10 What is 102 * 2 / 2 * 2 - 92 + 102?',
-    answers: [
-      { text: '102', correct: true },
-      { text: '10', correct: false }
     ]
   },
 
